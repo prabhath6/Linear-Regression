@@ -16,5 +16,11 @@ Seaborn and matplotlib are used for data visualization. At the end we will be pl
 
 ###Some of the plots are shown below:
 
-#### house_vs_price
+#### House_vs_price
 ![alt tag](https://github.com/prabhath6/Linear-Regression/blob/master/house_vs_price.png)
+
+#### Best fit using numpy
+![alt tag](https://github.com/prabhath6/Linear-Regression/blob/master/bestfit.png)
+
+#### Residual plot
+![alt tag](https://github.com/prabhath6/Linear-Regression/blob/master/residualplot.png)
